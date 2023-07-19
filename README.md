@@ -8,7 +8,7 @@
 
 ### **Full Stack Developer & Data Analytics Expert**
 WebSite: [https://khewittdev.com](https://khewittdev.com)<br>
-LinkedIn: [www.linkedin.com/in/khewitt512](www.linkedin.com/in/khewitt512)<br>
+LinkedIn: [www.linkedin.com/in/khewitt512](https://www.linkedin.com/in/khewitt512)<br>
 GitHub: [https://github.com/nxbit](https://github.com/nxbit)<br>
 Email: [kevinlhewitt@outlook.com](mailto:kevinlhewitt@outlook.com)<br>
 Phone: (512) 909-2425
