@@ -1,17 +1,10 @@
-<div style="text-align: center;">
+<h1 align="center">Kevin Hewitt</h1>
 
-# **Kevin Hewitt**
+<p align="center" style="margin-bottom: 0px !important;">
+    <img src="https://github.com/nxbit/nxbit/blob/main/profile.png?raw=true" alt="Kevin Hewitt" align="center" style="width: 15rem; height: auto;">
+</p>
 
-</div>
-<div style="width: 100%; display: flex; align-items: center; justify-content: center;">
-<img 
-    width="200" 
-    src="https://media.licdn.com/dms/image/D5635AQHBpFuEjRLSNA/profile-framedphoto-shrink_400_400/0/1689687698432?e=1690329600&amp;v=beta&amp;t=072qkHAIudvS6nK5ky0UOBQIBrDTim-dF9B-JCQeGWY" 
-    height="200" 
-    alt="Kevin Hewitt, #OPEN_TO_WORK"
-    style="border-radius: 50%"></br>
-</div>
-<div style="text-align: center;">
+<div align="center">
 
 ### **Full Stack Developer & Data Analytics Expert**
 WebSite: [https://khewittdev.com](https://khewittdev.com)<br>
